@@ -82,6 +82,7 @@ Contact
 License
 =======
 This material is Copyright &copy;2012 Copybar and licensed under the [Creative Commons Attribution-Share Alike 3.0 United Stateslicense](http://creativecommons.org/licenses/by-sa/3.0/us/). You are free tocopy, distribute, transmit, and remix this work, provided you attribute the work to Copybar as the original author and reference [this repository](http://github.com/copybar/getting-started). If you alter, transform, or build upon this work, you may distribute the resulting work only under the same, similar or a compatible license. Any of the above conditions can be waived if you get permission from the copyright holder. For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to the [Creative Commons Attribution-Share Alike 3.0 United States license](http://creativecommons.org/licenses/by-sa/3.0/us/).
+Thanks to Rebecca Murphey at [JQFundamentals](https://github.com/rmurphey/jqfundamentals) for this license. 
 
 
 
