@@ -49,7 +49,7 @@ How to Host a Copybar site on Dropbox
 		hello	
 	```
 
-	Each time you paste in a Copybar snippet with the id as "hello", then it will show that element's content.  But, use a new name, like "goodbye", and Copybar creates a new element to edit.  
+	Each time you paste in a Copybar snippet with the id as "hello", then it will show this element's content.  Copybar creates a new element whenever you create a new id. Try switching the id from "hello" to "goodbye".
 
 	*element id's must end with '.js'*
 
