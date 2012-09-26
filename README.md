@@ -18,13 +18,13 @@ How to Host a Copybar site on Dropbox
 
 1. Download or clone the 'Getting Started' demo into your /Dropbox/Public folder
 	
-	If you are new to git, then use the 'ZIP' button to download an .zip file.  Double-click to unzip, and when you see the 'getting-started' folder, open it.
+	If you are new to git, then use the 'ZIP' button up above to download a .zip file.  Double-click to unzip it and open the 'getting-started' folder.
 
 	The folder needs to be in your Public Dropbox folder to be hosted online.
 
 3. Run the site in your browser
 
-	Right-click on index.html and select 'Copy Public Link'.  
+	Right-click on 'index.html' and select 'Copy Public Link'.  
 	
 	This will put a copy of the public link into your clipboard.  Now you can open your browser and paste this link into the address bar.  Hit enter to load the page.
 
@@ -49,13 +49,15 @@ How to Host a Copybar site on Dropbox
 		hello	
 	```
 
-	Each time you paste in a Copybar snippet with the same ELEMENT_ID, then it will show that specific content.  But, use a new name, like ELEMENT_ID_2, and Copybar creates a new element to edit.  
+	Each time you paste in a Copybar snippet with the id as "hello", then it will show that element's content.  But, use a new name, like "goodbye", and Copybar creates a new element to edit.  
 
 	*element id's must end with '.js'*
 
 6. Make your own snippet and refresh the browser
 
-	Since our sample snippet uses our own protected account, you won't be able to edit this element.  But switch "copybarrista" to a name of your own and reload the page! Copybar will create a new account for you and a new element with an 'Add Copy' button to get started.
+	Since our sample snippet uses our own protected account, you won't be able to edit this element.  Switch "copybarrista" to a name of your own and reload the page. 
+
+	Copybar will create a new account for you with a new element. You will see the 'Add Copy' button to get started.
 
 	*If nothing happened, you might need to do a hard reload.  It's simple:
 	Mac: command+shift+R
