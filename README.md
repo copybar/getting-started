@@ -62,12 +62,22 @@ How to Host a Copybar site on Dropbox
 	*If nothing happened, you might need to do a hard reload.  It's simple:
 	Mac: command+shift+R
 	Windows: ctrl+shift+R*
+
+### Advanced Copybar Tricks
 	
-7. Check out your account at Copybar.io
+1. Check out your account at Copybar.io
 	
 	You created a snippet with your own username and Copybar has an account ready for you.  Visit [Copybar.io/signup](https://copybar.io/signup).  Confirm your account to manage your elements, keep them password protected, and invite collaborators.
 
 	*Note, until you have confirmed your account with a password and email, your Copybar elements will be editable by anyone.*  
+
+2. Add collaborators
+	
+	You can add collaborators for an individual element.  Navigate to that element's page on copybar.io, select the 'collaborators' tab, and add a user.  They must have a Copybar account to be a collaborator.
+
+3. Upgrade your account to remove the Copybar badge
+
+	Free accounts will show the Copybar badge in the lower left corner of a webpage where Copybar elements appear.  Paid accounts do not show this badge.
 
 ---
 
