@@ -4,7 +4,7 @@ Getting Started with Copybar
 Copybar is an instant CMS.  Using a snippet like the one below, you can enable dynamic content editing.  
 
 ```html
-<script src="//copybar.io/USERNAME/ELEMENT_ID.js"></script>
+<script src="//copybar.io/ACCOUNTNAME/ASSETNAME.js"></script>
 ```
 
 Replace USERNAME with your own username, and then create a unique element id for each snippet.
